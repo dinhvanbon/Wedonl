@@ -97,9 +97,9 @@ Dự án xây dựng website bán giày 2PSS Sneaker được triển khai theo 
 | **Giai đoạn** | **Nội dung công việc**                                                           | **Thời gian dự kiến** |
 | ------------- | -------------------------------------------------------------------------------- | --------------------- |
 | Giai đoạn 1   | Phân tích yêu cầu, xác định mục tiêu hệ thống, khảo sát bài tham khảo khóa trước | Tuần 1                |
-| Giai đoạn 2   | Thiết kế giao diện website (UI/UX), xây dựng layout các trang chính              | Tuần 2                |
-| Giai đoạn 3   | Thiết kế cơ sở dữ liệu, xây dựng backend bằng Laravel                            | Tuần 3                |
-| Giai đoạn 4   | Xây dựng các chức năng chính: quản lý sản phẩm, giỏ hàng, đặt hàng               | Tuần 4                |
-| Giai đoạn 5   | Kiểm thử hệ thống, sửa lỗi, hoàn thiện chức năng                                 | Tuần 5                |
-| Giai đoạn 6   | Hoàn thiện báo cáo, chuẩn bị demo và nộp bài                                     | Tuần 6                |
+| Giai đoạn 2   | Thiết kế giao diện website (UI/UX), xây dựng layout các trang chính              | Tuần 2-3              |
+| Giai đoạn 3   | Thiết kế cơ sở dữ liệu, xây dựng backend bằng Laravel                            | Tuần 4-5              |
+| Giai đoạn 4   | Xây dựng các chức năng chính: quản lý sản phẩm, giỏ hàng, đặt hàng               | Tuần 5-6              |
+| Giai đoạn 5   | Kiểm thử hệ thống, sửa lỗi, hoàn thiện chức năng                                 | Tuần 6-7              |
+| Giai đoạn 6   | Hoàn thiện báo cáo, chuẩn bị demo và nộp bài                                     | Tuần 8                |
 
