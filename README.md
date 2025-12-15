@@ -90,3 +90,16 @@ Canva
 8. Kết luận
 
 Website bán giày trực tuyến là một giải pháp thiết thực để mở rộng kênh bán hàng và đem lại trải nghiệm mua sắm hiện đại cho khách hàng. Dự án này không chỉ nâng cao hiệu quả kinh doanh mà còn giúp nâng cao sự hài lòng của khách hàng nhờ các chức năng tiện ích và thao tác nhanh gọn trên web.
+
+9. KẾ HOẠCH THỰC HIỆN (TIMELINE)
+
+Dự án xây dựng website bán giày 2PSS Sneaker được triển khai theo từng giai đoạn cụ thể nhằm đảm bảo tiến độ và chất lượng của hệ thống. Thời gian thực hiện dự án được chia thành các mốc như sau:
+| **Giai đoạn** | **Nội dung công việc**                                                           | **Thời gian dự kiến** |
+| ------------- | -------------------------------------------------------------------------------- | --------------------- |
+| Giai đoạn 1   | Phân tích yêu cầu, xác định mục tiêu hệ thống, khảo sát bài tham khảo khóa trước | Tuần 1                |
+| Giai đoạn 2   | Thiết kế giao diện website (UI/UX), xây dựng layout các trang chính              | Tuần 2                |
+| Giai đoạn 3   | Thiết kế cơ sở dữ liệu, xây dựng backend bằng Laravel                            | Tuần 3                |
+| Giai đoạn 4   | Xây dựng các chức năng chính: quản lý sản phẩm, giỏ hàng, đặt hàng               | Tuần 4                |
+| Giai đoạn 5   | Kiểm thử hệ thống, sửa lỗi, hoàn thiện chức năng                                 | Tuần 5                |
+| Giai đoạn 6   | Hoàn thiện báo cáo, chuẩn bị demo và nộp bài                                     | Tuần 6                |
+
