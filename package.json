@@ -1,0 +1,44 @@
+{
+    "name": "ung-dung-ban-giay",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite preview --port 10000"
+    },
+    "description": "Đồ án Web nâng cao: Ứng dụng bán giày. Sử dụng Laravel cho backend và Vite + TailwindCSS cho frontend.",
+    "dependencies": {
+    "axios": "^1.8.2",
+    "vite-plugin-full-reload": "^1.2.0",
+    "rxjs": "^7.8.2"
+    },
+    "devDependencies": {
+    "@tailwindcss/vite": "^4.1.7",
+    "concurrently": "^9.0.1",
+    "laravel-vite-plugin": "^1.2.0",
+    "tailwindcss": "^4.1.7",
+    "vite": "^6.3.6",
+    "postcss": "^8.5.6"
+    },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/TN012345/Ung-dung-ban-giay.git"
+    },
+    "keywords": [
+    "vite",
+    "tailwindcss",
+    "laravel",
+    "javascript",
+    "web",
+    "project"
+    ],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+    "url": "https://github.com/TN012345/Ung-dung-ban-giay/issues"
+    },
+    "homepage": "https://github.com/TN012345/Ung-dung-ban-giay#readme"
+}
