@@ -25,7 +25,7 @@
     },
     "repository": {
     "type": "git",
-    "url": "https://github.com/TN012345/Ung-dung-ban-giay.git"
+    "url": "https://github.com/dinhvanbon/Wedonl"
     },
     "keywords": [
     "vite",
@@ -38,7 +38,7 @@
     "author": "",
     "license": "ISC",
     "bugs": {
-    "url": "https://github.com/TN012345/Ung-dung-ban-giay/issues"
+    "url": "https://github.com/dinhvanbon/Wedonl"
     },
-    "homepage": "https://github.com/TN012345/Ung-dung-ban-giay#readme"
+    "homepage": "https://github.com/dinhvanbon/Wedonl"
 }
